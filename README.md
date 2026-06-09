@@ -197,7 +197,7 @@ GitHub: <https://github.com/anasemadanas>
 <a href="https://learn.microsoft.com/en-us/training/" target="_blank"><img src="./assets/badges/Microsoft-365-Office-Technologies-blue-6e7be568.svg" /></a>
 <a href="https://www.wireshark.org/" target="_blank"><img src="./assets/badges/Wireshark-Network-Analyzer-blue-a8dedede.svg" /></a>
 <a href="https://www.netacad.com/" target="_blank"><img src="./assets/badges/Cisco-Networking-1BA0D7-80637403.svg" /></a>
-<a href="https://alison.com/" target="_blank"><img src="./assets/badges/CCNA-200-301-Network-Fundamentals-1BA0D7-59731e1d.svg" /></a>
+<a href="https://www.cisco.com/" target="_blank"><img src="./assets/badges/CCNA-200-301-Network-Fundamentals-1BA0D7-59731e1d.svg" /></a>
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank"><img src="./assets/badges/AWS-CLF-C02-FF9900-51373805.svg" /></a>
 <a href="https://aws.amazon.com/certification/certified-ai-practitioner/" target="_blank"><img src="./assets/badges/AWS-AI-Practitioner-AIF-C01-FF9900.svg" /></a>
 <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank"><img src="./assets/badges/Microsoft-Fabric-Data-Platform-purple-cbb6357b.svg" /></a>
