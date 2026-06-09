@@ -17,6 +17,7 @@ Private repository containing my learning journey, certificates, completed cours
 - 🧠 [Dev Quote](#dev-quote)
 - 🌐 [Cisco Networking Academy](#cisco-networking-academy-netacad)
 - ☁️ [Cloud, Microsoft, AWS & AI Learning](#cloud-microsoft-aws-ai-learning)
+- 🧩 [CompTIA Learning](#comptia-learning)
 - 🌐 [Web Development & Software Engineering](#web-development-software-engineering)
 - 💻 [ProgrammingAdvices Roadmap Courses](#programmingadvices-roadmap-courses)
 - 🎓 [Edraak Courses](#edraak-courses)
@@ -194,6 +195,21 @@ GitHub: <https://github.com/anasemadanas>
 <p align="left">
 <a href="https://learn.microsoft.com/" target="_blank"><img src="./assets/badges/Microsoft-Learning-Server-Technologies-blue-2c87dc27.svg" /></a>
 <a href="https://learn.microsoft.com/en-us/training/" target="_blank"><img src="./assets/badges/Microsoft-365-Office-Technologies-blue-6e7be568.svg" /></a>
+<a href="https://www.wireshark.org/" target="_blank"><img src="./assets/badges/Wireshark-Network-Analyzer-blue-a8dedede.svg" /></a>
+<a href="https://www.netacad.com/" target="_blank"><img src="./assets/badges/Cisco-Networking-1BA0D7-80637403.svg" /></a>
+<a href="https://alison.com/" target="_blank"><img src="./assets/badges/CCNA-200-301-Network-Fundamentals-1BA0D7-59731e1d.svg" /></a>
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank"><img src="./assets/badges/AWS-CLF-C02-FF9900-51373805.svg" /></a>
+<a href="https://aws.amazon.com/certification/certified-ai-practitioner/" target="_blank"><img src="./assets/badges/AWS-AI-Practitioner-AIF-C01-FF9900.svg" /></a>
+<a href="https://learn.microsoft.com/en-us/fabric/" target="_blank"><img src="./assets/badges/Microsoft-Fabric-Data-Platform-purple-cbb6357b.svg" /></a>
+</p>
+
+---
+
+<a id="comptia-learning"></a>
+
+## 🧩 CompTIA Learning
+
+<p align="left">
 <a href="https://www.comptia.org/certifications/a" target="_blank"><img src="./assets/badges/CompTIA-A+-IT-Support-red-9ca5144c.svg" /></a>
 <a href="https://www.comptia.org/certifications/a" target="_blank"><img src="./assets/badges/CompTIA-A+-Core-1-red-5a9d1065.svg" /></a>
 <a href="https://www.comptia.org/certifications/a" target="_blank"><img src="./assets/badges/CompTIA-A+-Core-2-BD1E2D-2949b83e.svg" /></a>
@@ -201,12 +217,6 @@ GitHub: <https://github.com/anasemadanas>
 <a href="https://www.comptia.org/certifications/cloud" target="_blank"><img src="./assets/badges/CompTIA-Cloud+-Cloud-Computing-00A3E0-003255c3.svg" /></a>
 <a href="https://www.comptia.org/certifications/security" target="_blank"><img src="./assets/badges/CompTIA-Security+-Cybersecurity-darkgreen-77fe8fa3.svg" /></a>
 <a href="https://www.comptia.org/certifications/security" target="_blank"><img src="./assets/badges/CompTIA-Security+-Learner-Verification-107C10-262dbf8d.svg" /></a>
-<a href="https://www.wireshark.org/" target="_blank"><img src="./assets/badges/Wireshark-Network-Analyzer-blue-a8dedede.svg" /></a>
-<a href="https://www.netacad.com/" target="_blank"><img src="./assets/badges/Cisco-Networking-1BA0D7-80637403.svg" /></a>
-<a href="https://alison.com/" target="_blank"><img src="./assets/badges/CCNA-200-301-Network-Fundamentals-1BA0D7-59731e1d.svg" /></a>
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank"><img src="./assets/badges/AWS-CLF-C02-FF9900-51373805.svg" /></a>
-<a href="https://aws.amazon.com/certification/certified-ai-practitioner/" target="_blank"><img src="./assets/badges/AWS-AI-Practitioner-AIF-C01-FF9900.svg" /></a>
-<a href="https://learn.microsoft.com/en-us/fabric/" target="_blank"><img src="./assets/badges/Microsoft-Fabric-Data-Platform-purple-cbb6357b.svg" /></a>
 </p>
 
 ---
