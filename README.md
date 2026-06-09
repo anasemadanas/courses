@@ -1,7 +1,9 @@
-# Courses & Learning Archive
+<a id="courses--learning-archive"></a>
+
+# 📚 Courses & Learning Archive
 
 <div align="center">
-  <h1>Anas Emad Sabri</h1>
+  <h1>🎓 Anas Emad Sabri</h1>
   <p><strong>Private learning archive and educational documentation space</strong></p>
   <p>
     A structured record of certificates, course badges, labs, notes, roadmaps, and resources across backend development, cloud computing, cybersecurity, databases, AI, and professional skills.
@@ -12,22 +14,22 @@
 
 ---
 
-## Quick Navigation
+## 📌 Quick Navigation
 
-- [About](#about)
-- [Archive Structure](#archive-structure)
-- [Certificates](#certificates)
-- [Learning Notes](#learning-notes)
-- [Labs](#labs)
-- [Roadmaps](#roadmaps)
-- [Resources](#resources)
-- [Course Categories](#course-categories)
-- [Badge Library](#badge-library)
-- [Notes](#notes)
+- 📖 [About](#about)
+- 🗂️ [Archive Structure](#archive-structure)
+- 🎓 [Certificates](#certificates)
+- 🧠 [Learning Notes](#learning-notes)
+- 🧪 [Labs](#labs)
+- 🛣️ [Roadmaps](#roadmaps)
+- 🔗 [Resources](#resources)
+- 🧭 [Course Categories](#course-categories)
+- 🏅 [Badge Library](#badge-library)
+- 📝 [Notes](#notes)
 
 ---
 
-## About
+## 📖 About
 
 This repository is a private learning archive and educational documentation space. It is used to organize completed courses, certificates of completion, platform badges, learning notes, lab work, roadmaps, and study resources in a way that can scale as more material is added.
 
@@ -35,7 +37,7 @@ The repository is not meant to be only a badge gallery. Badges remain preserved 
 
 ---
 
-## Archive Structure
+## 🗂️ Archive Structure
 
 ```text
 .
@@ -65,7 +67,7 @@ Each folder inside `Learning-Archive` can hold its own `README.md`, certificate 
 
 ---
 
-## Certificates
+## 🎓 Certificates
 
 Certificates and completion badges are grouped by provider or topic. Verified professional certifications are separated from course-completion badges when possible.
 
@@ -84,7 +86,7 @@ Primary providers and learning platforms:
 
 ---
 
-## Learning Notes
+## 🧠 Learning Notes
 
 Learning notes are intended for topic summaries, command references, study checklists, implementation notes, and revision material.
 
@@ -102,7 +104,7 @@ Learning-Archive/
 
 ---
 
-## Labs
+## 🧪 Labs
 
 Labs are used for hands-on practice, screenshots, commands, network captures, deployment experiments, database exercises, and backend implementation walkthroughs.
 
@@ -121,7 +123,7 @@ Learning-Archive/
 
 ---
 
-## Roadmaps
+## 🛣️ Roadmaps
 
 Roadmaps track long-term learning paths and progress across backend engineering, cloud, cybersecurity, AI, and databases.
 
@@ -137,7 +139,7 @@ Current roadmap areas:
 
 ---
 
-## Resources
+## 🔗 Resources
 
 Resources are used for curated links, documentation, books, official docs, cheat sheets, labs, and practice platforms.
 
@@ -156,27 +158,27 @@ Learning-Archive/
 
 ---
 
-## Course Categories
+## 🧭 Course Categories
 
 | Category | Focus |
 | --- | --- |
-| [AWS](./Learning-Archive/AWS/) | Cloud foundations, AWS certification paths, cloud architecture basics |
-| [Microsoft](./Learning-Archive/Microsoft/) | Azure, Microsoft Learn, Microsoft 365, Power Platform, Fabric |
-| [NetAcad](./Learning-Archive/NetAcad/) | Cisco Networking Academy, networking, cybersecurity, programming essentials |
-| [Backend](./Learning-Archive/Backend/) | Backend engineering, APIs, OOP, clean code, web development, Programming Advices |
-| [Cybersecurity](./Learning-Archive/Cybersecurity/) | Security fundamentals, networking, Wireshark, Linux, malware analysis basics |
-| [Databases](./Learning-Archive/Databases/) | SQL, relational design, database projects, data platforms |
-| [AI](./Learning-Archive/AI/) | Azure AI, AWS AI, LLM tools, AI API integrations |
-| [Soft Skills](./Learning-Archive/Soft-Skills/) | Communication, leadership, English, productivity, business analysis |
-| [Misc](./Learning-Archive/Misc/) | General digital skills, creative tools, and uncategorized learning |
+| ☁️ [AWS](./Learning-Archive/AWS/) | Cloud foundations, AWS certification paths, cloud architecture basics |
+| 🟦 [Microsoft](./Learning-Archive/Microsoft/) | Azure, Microsoft Learn, Microsoft 365, Power Platform, Fabric |
+| 🌐 [NetAcad](./Learning-Archive/NetAcad/) | Cisco Networking Academy, networking, cybersecurity, programming essentials |
+| 💻 [Backend](./Learning-Archive/Backend/) | Backend engineering, APIs, OOP, clean code, web development, Programming Advices |
+| 🔐 [Cybersecurity](./Learning-Archive/Cybersecurity/) | Security fundamentals, networking, Wireshark, Linux, malware analysis basics |
+| 🗄️ [Databases](./Learning-Archive/Databases/) | SQL, relational design, database projects, data platforms |
+| 🤖 [AI](./Learning-Archive/AI/) | Azure AI, AWS AI, LLM tools, AI API integrations |
+| 🤝 [Soft Skills](./Learning-Archive/Soft-Skills/) | Communication, leadership, English, productivity, business analysis |
+| 📦 [Misc](./Learning-Archive/Misc/) | General digital skills, creative tools, and uncategorized learning |
 
 ---
 
-## Badge Library
+## 🏅 Badge Library
 
 All existing badges are preserved in `assets/badges`. The sections below keep the visual archive available while the folder structure provides cleaner organization.
 
-### Strongest Highlights
+### ⭐ Strongest Highlights
 
 <p align="left">
   <a href="https://cs50.harvard.edu/" target="_blank"><img src="./assets/badges/CS50-Harvard-University-8B1E3F-d00e7cad.svg" alt="CS50 Harvard"></a>
@@ -188,7 +190,7 @@ All existing badges are preserved in `assets/badges`. The sections below keep th
 </p>
 
 <details>
-<summary><strong>Microsoft, AWS, Cloud & AI</strong></summary>
+<summary><strong>☁️ Microsoft, AWS, Cloud & AI</strong></summary>
 
 <p align="left">
   <a href="https://learn.microsoft.com/" target="_blank"><img src="./assets/badges/Microsoft-Learning-Server-Technologies-blue-2c87dc27.svg" alt="Microsoft Learning"></a>
@@ -205,7 +207,7 @@ All existing badges are preserved in `assets/badges`. The sections below keep th
 </details>
 
 <details>
-<summary><strong>Cisco Networking Academy / NetAcad</strong></summary>
+<summary><strong>🌐 Cisco Networking Academy / NetAcad</strong></summary>
 
 <p align="left">
   <a href="https://www.netacad.com/" target="_blank"><img src="./assets/badges/NetAcad-C++-Essentials-1-1BA0D7-43e4f26a.svg" alt="NetAcad C++ Essentials 1"></a>
@@ -226,7 +228,7 @@ All existing badges are preserved in `assets/badges`. The sections below keep th
 </details>
 
 <details>
-<summary><strong>Backend, Databases & Programming Advices</strong></summary>
+<summary><strong>💻 Backend, Databases & Programming Advices</strong></summary>
 
 <p align="left">
   <a href="https://programmingadvices.com/" target="_blank"><img src="./assets/badges/01-Foundations-Level-1-success-c5d57a50.svg" alt="Foundations Level 1"></a>
@@ -250,7 +252,7 @@ All existing badges are preserved in `assets/badges`. The sections below keep th
 </details>
 
 <details>
-<summary><strong>Cybersecurity & CompTIA</strong></summary>
+<summary><strong>🔐 Cybersecurity & CompTIA</strong></summary>
 
 <p align="left">
   <a href="https://www.comptia.org/certifications/a" target="_blank"><img src="./assets/badges/CompTIA-A+-IT-Support-red-9ca5144c.svg" alt="CompTIA A+"></a>
@@ -265,7 +267,7 @@ All existing badges are preserved in `assets/badges`. The sections below keep th
 </details>
 
 <details>
-<summary><strong>Soft Skills, Edraak, Web & Misc</strong></summary>
+<summary><strong>🤝 Soft Skills, Edraak, Web & Misc</strong></summary>
 
 <p align="left">
   <a href="https://orange.jo/en/corporate/csr/coding-academy" target="_blank"><img src="./assets/badges/HTML-Orange-Coding-Academy-E34F26-7ecc0a95.svg" alt="HTML Orange Coding Academy"></a>
@@ -285,7 +287,7 @@ All existing badges are preserved in `assets/badges`. The sections below keep th
 
 ---
 
-## Notes
+## 📝 Notes
 
 - Some items are official certifications; others are course completions, learning paths, self-study programs, or platform badges.
 - Badge assets are kept in their existing location to preserve links and avoid unnecessary churn.
@@ -293,21 +295,23 @@ All existing badges are preserved in `assets/badges`. The sections below keep th
 
 ---
 
-## Owner
+## 👨‍💻 Owner
 
 **Anas Emad**  
 Backend Developer | Cloud & Cybersecurity Learner
 
 [GitHub](https://github.com/anasemadanas) | [Main Profile](https://github.com/anasemadanas/anasemadanas)
 
-<details>
-<summary><strong>Secondary Widgets</strong></summary>
+---
 
-### Contribution Snake
+<details>
+<summary><strong>🐍 Contribution Snake & Quote</strong></summary>
+
+### 🐍 Contribution Snake
 
 [![snake](./assets/readme/external/anasemadanas-anasemadanas-output-snake-eee0e1e1.svg)](https://github.com/anasemadanas)
 
-### Dev Quote
+### 🧠 Dev Quote
 
 <p align="center">
   <img src="./assets/static/quote.svg" alt="Developer quote">
@@ -317,12 +321,12 @@ Backend Developer | Cloud & Cybersecurity Learner
 
 ---
 
-## Back To Top
+## 🔝 Back To Top
 
 <p align="center">
   <a href="#courses--learning-archive">Back To Top</a>
 </p>
 
 <p align="center">
-  Thank you for visiting my learning archive.
+  💙 Thank you for visiting my learning archive.
 </p>
