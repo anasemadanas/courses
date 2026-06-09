@@ -227,8 +227,20 @@ The badge library stays visible, but organized with collapsible groups so the RE
 
 </details>
 
+<a id="programming-advices-roadmap"></a>
+
 <details>
 <summary><strong>💻 Programming Advices Roadmap</strong></summary>
+
+🔗 [Programming Advices](https://programmingadvices.com/)
+
+Programming Advices played a major role in my journey into software engineering and the IT field.  
+It was one of the main foundations that helped shape my problem-solving mindset, programming logic, and backend development skills.
+
+Through its roadmap and practical projects, I built a strong understanding of algorithms, OOP, databases, system thinking, and clean code principles.  
+It became an important starting point in my professional growth and learning journey.
+
+I truly appreciate the educational value and structured learning approach that helped me progress from fundamentals to building real-world applications.
 
 <p align="left">
   <a href="https://programmingadvices.com/"><img src="./assets/badges/01-Foundations-Level-1-success-c5d57a50.svg" alt="Foundations Level 1"></a>
@@ -244,8 +256,11 @@ The badge library stays visible, but organized with collapsible groups so the RE
   <a href="https://programmingadvices.com/"><img src="./assets/badges/11-OOP-Level-2-00599C-a3f18049.svg" alt="OOP Level 2"></a>
   <a href="https://programmingadvices.com/"><img src="./assets/badges/12-Data-Structures-Level-1-orange-12d2a44b.svg" alt="Data Structures Level 1"></a>
   <a href="https://programmingadvices.com/"><img src="./assets/badges/13-Algorithms-Level-5-success-1259c608.svg" alt="Algorithms Level 5"></a>
+  <a href="https://programmingadvices.com/"><img src="./assets/badges/14-C-Level-1-68217A-78ba3ad7.svg" alt="C Level 1"></a>
   <a href="https://programmingadvices.com/"><img src="./assets/badges/15-Database-Level-1-SQL-4479A1-7db6812a.svg" alt="Database Level 1 SQL"></a>
+  <a href="https://programmingadvices.com/"><img src="./assets/badges/16-OOP-in-C-68217A-97223b7a.svg" alt="OOP in C"></a>
   <a href="https://programmingadvices.com/"><img src="./assets/badges/17-Database-Project-4479A1-924a805f.svg" alt="Database Project"></a>
+  <a href="https://programmingadvices.com/"><img src="./assets/badges/18-C-Database-68217A-372d2c85.svg" alt="C Database"></a>
   <a href="https://programmingadvices.com/"><img src="./assets/badges/19-Full-Project-in-C-68217A-c8eb04f5.svg" alt="Full Project in C"></a>
 </p>
 
