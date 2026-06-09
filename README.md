@@ -8,6 +8,22 @@ This repository keeps the broader course and certificate badge collection separa
 
 ---
 
+## 🐍 Contribution Snake
+
+[![snake](./assets/readme/external/anasemadanas-anasemadanas-output-snake-eee0e1e1.svg)](https://github.com/anasemadanas)
+
+---
+
+## 🧠 Dev Quote
+
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank">
+    <img src="./assets/static/quote.svg">
+  </a>
+</p>
+
+---
+
 ## 🌐 Cisco Networking Academy (NetAcad)
 
 <p align="left">
