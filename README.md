@@ -8,8 +8,10 @@
   <p>
     Certificates, badges, notes, labs, roadmaps, and technical resources collected across backend development, cloud, cybersecurity, databases, AI, and professional skills.
   </p>
-
-  <img src="./assets/generated/typing1.svg" alt="Courses and certificates archive">
+  <a href="https://github.com/anasemadanas/courses" target="_blank">
+    <img src="./assets/generated/typing1.svg"
+         alt="Courses and certificates archive">
+  </a>
 </div>
 
 ---
@@ -382,12 +384,14 @@ I truly appreciate the educational value and structured learning approach that h
 
 ### 🐍 Contribution Snake
 
-[![snake](./assets/readme/external/anasemadanas-anasemadanas-output-snake-eee0e1e1.svg)](https://github.com/anasemadanas)
+[![snake](./assets/readme/external/anasemadanas-anasemadanas-output-snake-eee0e1e1.svg)](https://github.com/anasemadanas/courses#snake--quote)
 
 ### 🧠 Dev Quote
 
 <p align="center">
-  <img src="./assets/static/quote.svg" alt="Developer quote">
+  <a href="https://github.com/anasemadanas/courses#snake--quote" target="_blank">
+    <img src="./assets/static/quote.svg" alt="Developer quote">
+  </a>
 </p>
 
 </details>
