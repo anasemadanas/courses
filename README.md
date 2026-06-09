@@ -294,7 +294,7 @@ I truly appreciate the educational value and structured learning approach that h
 <details>
 <summary><strong>🤖 AI Tools, Models & APIs</strong></summary>
 
-### 🛠️ AI & Machine Learning Tools
+**AI & Machine Learning Tools**
 
 <p align="left">
   <a href="https://ollama.com/"><img src="./assets/badges/Ollama-Local-LLM-Runner-black-22a74c2d.svg" alt="Ollama"></a>
@@ -302,7 +302,7 @@ I truly appreciate the educational value and structured learning approach that h
   <a href="https://github.com/LostRuins/koboldcpp"><img src="./assets/badges/KoboldCPP-Local-Inference-purple-b0841874.svg" alt="KoboldCPP"></a>
 </p>
 
-### 🧠 LLMs & Models Experience
+**LLMs & Models**
 
 <p align="left">
   <a href="https://qwenlm.github.io/"><img src="./assets/badges/Qwen-2.5-Coder-orange-181ec436.svg" alt="Qwen"></a>
@@ -311,7 +311,7 @@ I truly appreciate the educational value and structured learning approach that h
   <a href="https://mistral.ai/"><img src="./assets/badges/Mistral-AI-gray-8fdaba72.svg" alt="Mistral AI"></a>
 </p>
 
-### 🌐 AI APIs & Platforms
+**AI APIs & Platforms**
 
 <p align="left">
   <a href="https://openrouter.ai/"><img src="./assets/badges/OpenRouter-AI-Gateway-blue-d77a0850.svg" alt="OpenRouter"></a>
