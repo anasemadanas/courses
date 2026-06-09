@@ -16,13 +16,15 @@ Private repository containing my learning journey, certificates, completed cours
 - 🐍 [Contribution Snake](#contribution-snake)
 - 🧠 [Dev Quote](#dev-quote)
 - 🌐 [Cisco Networking Academy](#cisco-networking-academy-netacad)
-- ☁️ [Cloud, Microsoft & Security Learning](#cloud-microsoft--security-learning)
-- 🌐 [Web Development & Software Engineering](#web-development--software-engineering)
+- ☁️ [Cloud, Microsoft, AWS & AI Learning](#cloud-microsoft-aws-ai-learning)
+- 🌐 [Web Development & Software Engineering](#web-development-software-engineering)
 - 💻 [ProgrammingAdvices Roadmap Courses](#programmingadvices-roadmap-courses)
 - 🎓 [Edraak Courses](#edraak-courses)
-- 🎨 [Creative, Productivity & Business Skills](#creative-productivity--business-skills)
+- 🎨 [Creative, Productivity & Business Skills](#creative-productivity-business-skills)
 
 ---
+
+<a id="about-this-repository"></a>
 
 ## 📌 About This Repository
 
@@ -35,6 +37,8 @@ This repository is used as a personal archive for:
 - Technical learning paths
 
 Most certificates are stored privately for organization and documentation purposes.
+
+<a id="main-learning-areas"></a>
 
 ## 🧠 Main Learning Areas
 
@@ -73,6 +77,8 @@ Most certificates are stored privately for organization and documentation purpos
 - AI Integrations
 - Data & Analytics Learning
 
+<a id="platforms--providers"></a>
+
 ## 🏆 Platforms & Providers
 
 - Cisco Networking Academy (NetAcad)
@@ -85,6 +91,8 @@ Most certificates are stored privately for organization and documentation purpos
 - ProgrammingAdvices
 - Udemy
 - Orange Coding Academy
+
+<a id="repository-structure"></a>
 
 ## 📂 Repository Structure
 
@@ -101,6 +109,8 @@ Certificates/
 └── Misc/
 ```
 
+<a id="purpose"></a>
+
 ## 🚀 Purpose
 
 This repository serves as:
@@ -109,6 +119,8 @@ This repository serves as:
 - Progress tracking system
 - Knowledge documentation space
 - Personal educational portfolio
+
+<a id="note"></a>
 
 ## ⚠️ Note
 
@@ -121,6 +133,8 @@ Some items represent:
 
 They are not necessarily official professional certifications unless explicitly verified.
 
+<a id="owner"></a>
+
 ## 👨‍💻 Owner
 
 **Anas Emad**  
@@ -130,11 +144,15 @@ GitHub: <https://github.com/anasemadanas>
 
 ---
 
+<a id="contribution-snake"></a>
+
 ## 🐍 Contribution Snake
 
 [![snake](./assets/readme/external/anasemadanas-anasemadanas-output-snake-eee0e1e1.svg)](https://github.com/anasemadanas)
 
 ---
+
+<a id="dev-quote"></a>
 
 ## 🧠 Dev Quote
 
@@ -145,6 +163,8 @@ GitHub: <https://github.com/anasemadanas>
 </p>
 
 ---
+
+<a id="cisco-networking-academy-netacad"></a>
 
 ## 🌐 Cisco Networking Academy (NetAcad)
 
@@ -167,7 +187,9 @@ GitHub: <https://github.com/anasemadanas>
 
 ---
 
-## ☁️ Cloud, Microsoft & Security Learning
+<a id="cloud-microsoft-aws-ai-learning"></a>
+
+## ☁️ Cloud, Microsoft, AWS & AI Learning
 
 <p align="left">
 <a href="https://learn.microsoft.com/" target="_blank"><img src="./assets/badges/Microsoft-Learning-Server-Technologies-blue-2c87dc27.svg" /></a>
@@ -181,13 +203,15 @@ GitHub: <https://github.com/anasemadanas>
 <a href="https://www.comptia.org/certifications/security" target="_blank"><img src="./assets/badges/CompTIA-Security+-Learner-Verification-107C10-262dbf8d.svg" /></a>
 <a href="https://www.wireshark.org/" target="_blank"><img src="./assets/badges/Wireshark-Network-Analyzer-blue-a8dedede.svg" /></a>
 <a href="https://www.netacad.com/" target="_blank"><img src="./assets/badges/Cisco-Networking-1BA0D7-80637403.svg" /></a>
-<a href="https://www.cisco.com/" target="_blank"><img src="./assets/badges/CCNA-200-301-Network-Fundamentals-1BA0D7-59731e1d.svg" /></a>
+<a href="https://alison.com/" target="_blank"><img src="./assets/badges/CCNA-200-301-Network-Fundamentals-1BA0D7-59731e1d.svg" /></a>
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank"><img src="./assets/badges/AWS-CLF-C02-FF9900-51373805.svg" /></a>
 <a href="https://aws.amazon.com/certification/certified-ai-practitioner/" target="_blank"><img src="./assets/badges/AWS-AI-Practitioner-AIF-C01-FF9900.svg" /></a>
 <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank"><img src="./assets/badges/Microsoft-Fabric-Data-Platform-purple-cbb6357b.svg" /></a>
 </p>
 
 ---
+
+<a id="web-development-software-engineering"></a>
 
 ## 🌐 Web Development & Software Engineering
 
@@ -200,6 +224,8 @@ GitHub: <https://github.com/anasemadanas>
 </p>
 
 ---
+
+<a id="programmingadvices-roadmap-courses"></a>
 
 ## 💻 ProgrammingAdvices Roadmap Courses
 
@@ -229,6 +255,8 @@ GitHub: <https://github.com/anasemadanas>
 
 ---
 
+<a id="edraak-courses"></a>
+
 ## 🎓 Edraak Courses
 
 <p align="left">
@@ -247,6 +275,8 @@ GitHub: <https://github.com/anasemadanas>
 </p>
 
 ---
+
+<a id="creative-productivity-business-skills"></a>
 
 ## 🎨 Creative, Productivity & Business Skills
 
