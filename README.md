@@ -4,6 +4,26 @@
 
 Private repository containing my learning journey, certificates, completed courses, labs, and technical training across software engineering, cloud computing, cybersecurity, and backend development.
 
+## 📌 Quick Navigation
+
+- 📌 [About This Repository](#about-this-repository)
+- 🧠 [Main Learning Areas](#main-learning-areas)
+- 🏆 [Platforms & Providers](#platforms--providers)
+- 📂 [Repository Structure](#repository-structure)
+- 🚀 [Purpose](#purpose)
+- ⚠️ [Note](#note)
+- 👨‍💻 [Owner](#owner)
+- 🐍 [Contribution Snake](#contribution-snake)
+- 🧠 [Dev Quote](#dev-quote)
+- 🌐 [Cisco Networking Academy](#cisco-networking-academy-netacad)
+- ☁️ [Cloud, Microsoft & Security Learning](#cloud-microsoft--security-learning)
+- 🌐 [Web Development & Software Engineering](#web-development--software-engineering)
+- 💻 [ProgrammingAdvices Roadmap Courses](#programmingadvices-roadmap-courses)
+- 🎓 [Edraak Courses](#edraak-courses)
+- 🎨 [Creative, Productivity & Business Skills](#creative-productivity--business-skills)
+
+---
+
 ## 📌 About This Repository
 
 This repository is used as a personal archive for:
