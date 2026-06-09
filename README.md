@@ -1,3 +1,5 @@
+# Anas Emad Sabri - Courses & Certificates
+
 # 📚 Certificates & Learning Archive
 
 Private repository containing my learning journey, certificates, completed courses, labs, and technical training across software engineering, cloud computing, cybersecurity, and backend development.
@@ -58,6 +60,7 @@ Most certificates are stored privately for organization and documentation purpos
 - AWS Training
 - Harvard CS50
 - CompTIA
+- Alison
 - Edraak
 - ProgrammingAdvices
 - Udemy
@@ -135,7 +138,6 @@ GitHub: <https://github.com/anasemadanas>
 <a href="https://www.netacad.com/" target="_blank"><img src="./assets/badges/Python-Essentials-1-Cisco-NetAcad-3776AB-29c67885.svg" /></a>
 <a href="https://www.netacad.com/" target="_blank"><img src="./assets/badges/Python-Essentials-2-Cisco-NetAcad-3776AB-2ff1ca82.svg" /></a>
 <a href="https://www.netacad.com/" target="_blank"><img src="./assets/badges/Networking-Basics-Cisco-NetAcad-1BA0D7-7c256968.svg" /></a>
-<a href="https://www.netacad.com/" target="_blank"><img src="./assets/badges/CCNA-200-301-Network-Fundamentals-1BA0D7-59731e1d.svg" /></a>
 <a href="https://www.netacad.com/" target="_blank"><img src="./assets/badges/Cisco-Learner-Verification-005073-eb2b68fd.svg" /></a>
 <a href="https://www.netacad.com/" target="_blank"><img src="./assets/badges/Introduction-to-Cybersecurity-Cisco-NetAcad-darkgreen-a2208985.svg" /></a>
 <a href="https://www.netacad.com/" target="_blank"><img src="./assets/badges/Data-Science-Essentials-with-Python-Cisco-NetAcad-yellow-e280db09.svg" /></a>
@@ -159,6 +161,7 @@ GitHub: <https://github.com/anasemadanas>
 <a href="https://www.comptia.org/certifications/security" target="_blank"><img src="./assets/badges/CompTIA-Security+-Learner-Verification-107C10-262dbf8d.svg" /></a>
 <a href="https://www.wireshark.org/" target="_blank"><img src="./assets/badges/Wireshark-Network-Analyzer-blue-a8dedede.svg" /></a>
 <a href="https://www.netacad.com/" target="_blank"><img src="./assets/badges/Cisco-Networking-1BA0D7-80637403.svg" /></a>
+<a href="https://www.cisco.com/" target="_blank"><img src="./assets/badges/CCNA-200-301-Network-Fundamentals-1BA0D7-59731e1d.svg" /></a>
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank"><img src="./assets/badges/AWS-CLF-C02-FF9900-51373805.svg" /></a>
 <a href="https://aws.amazon.com/certification/certified-ai-practitioner/" target="_blank"><img src="./assets/badges/AWS-AI-Practitioner-AIF-C01-FF9900.svg" /></a>
 <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank"><img src="./assets/badges/Microsoft-Fabric-Data-Platform-purple-cbb6357b.svg" /></a>
@@ -179,6 +182,16 @@ GitHub: <https://github.com/anasemadanas>
 ---
 
 ## 💻 ProgrammingAdvices Roadmap Courses
+
+🔗 [ProgrammingAdvices](https://programmingadvices.com/)
+
+Programming Advices played a major role in my journey into software engineering and the IT field.  
+It was one of the main foundations that helped shape my problem-solving mindset, programming logic, and backend development skills.
+
+Through its roadmap and practical projects, I built a strong understanding of algorithms, OOP, databases, system thinking, and clean code principles.  
+It became an important starting point in my professional growth and learning journey.
+
+I truly appreciate the educational value and structured learning approach that helped me progress from fundamentals to building real-world applications.
 
 <p align="left">
 <a href="https://programmingadvices.com/" target="_blank"><img src="./assets/badges/01-Foundations-Level-1-success-c5d57a50.svg" /></a>
